@@ -1,0 +1,3 @@
+[console_scripts]
+evitement_node = mon_evitement.evitement_node:main
+random_exploration = mon_evitement.random_exploration:main

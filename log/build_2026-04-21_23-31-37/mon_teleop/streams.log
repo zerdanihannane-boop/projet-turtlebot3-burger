@@ -1,0 +1,19 @@
+[0.758s] Invoking command in '/home/omen/tp2_ws/mon_teleop': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/omen/tp2_ws/build/mon_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omen/tp2_ws/install/mon_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mon_teleop build --build-base /home/omen/tp2_ws/build/mon_teleop/build install --record /home/omen/tp2_ws/build/mon_teleop/install.log --single-version-externally-managed install_data
+[0.947s] running egg_info
+[0.956s] writing ../build/mon_teleop/mon_teleop.egg-info/PKG-INFO
+[0.956s] writing dependency_links to ../build/mon_teleop/mon_teleop.egg-info/dependency_links.txt
+[0.956s] writing requirements to ../build/mon_teleop/mon_teleop.egg-info/requires.txt
+[0.957s] writing top-level names to ../build/mon_teleop/mon_teleop.egg-info/top_level.txt
+[0.977s] reading manifest file '../build/mon_teleop/mon_teleop.egg-info/SOURCES.txt'
+[0.978s] writing manifest file '../build/mon_teleop/mon_teleop.egg-info/SOURCES.txt'
+[0.978s] running build
+[0.978s] running build_py
+[0.978s] running install
+[0.982s] running install_lib
+[0.993s] running install_data
+[0.993s] running install_egg_info
+[1.005s] removing '/home/omen/tp2_ws/install/mon_teleop/lib/python3.12/site-packages/mon_teleop-0.0.0-py3.12.egg-info' (and everything under it)
+[1.005s] Copying ../build/mon_teleop/mon_teleop.egg-info to /home/omen/tp2_ws/install/mon_teleop/lib/python3.12/site-packages/mon_teleop-0.0.0-py3.12.egg-info
+[1.005s] running install_scripts
+[1.089s] writing list of installed files to '/home/omen/tp2_ws/build/mon_teleop/install.log'
+[1.117s] Invoked command in '/home/omen/tp2_ws/mon_teleop' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/omen/tp2_ws/build/mon_teleop/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omen/tp2_ws/install/mon_teleop/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/mon_teleop build --build-base /home/omen/tp2_ws/build/mon_teleop/build install --record /home/omen/tp2_ws/build/mon_teleop/install.log --single-version-externally-managed install_data

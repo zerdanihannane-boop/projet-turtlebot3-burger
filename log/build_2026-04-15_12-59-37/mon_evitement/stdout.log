@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/mon_evitement/mon_evitement.egg-info
+writing ../../build/mon_evitement/mon_evitement.egg-info/PKG-INFO
+writing dependency_links to ../../build/mon_evitement/mon_evitement.egg-info/dependency_links.txt
+writing entry points to ../../build/mon_evitement/mon_evitement.egg-info/entry_points.txt
+writing requirements to ../../build/mon_evitement/mon_evitement.egg-info/requires.txt
+writing top-level names to ../../build/mon_evitement/mon_evitement.egg-info/top_level.txt
+writing manifest file '../../build/mon_evitement/mon_evitement.egg-info/SOURCES.txt'
+reading manifest file '../../build/mon_evitement/mon_evitement.egg-info/SOURCES.txt'
+writing manifest file '../../build/mon_evitement/mon_evitement.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/omen/tp2_ws/build/mon_evitement/build
+creating /home/omen/tp2_ws/build/mon_evitement/build/lib
+creating /home/omen/tp2_ws/build/mon_evitement/build/lib/mon_evitement
+copying mon_evitement/evitement_node.py -> /home/omen/tp2_ws/build/mon_evitement/build/lib/mon_evitement
+copying mon_evitement/__init__.py -> /home/omen/tp2_ws/build/mon_evitement/build/lib/mon_evitement
+running install
+running install_lib
+creating /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement
+copying /home/omen/tp2_ws/build/mon_evitement/build/lib/mon_evitement/evitement_node.py -> /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement
+copying /home/omen/tp2_ws/build/mon_evitement/build/lib/mon_evitement/__init__.py -> /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement
+byte-compiling /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement/evitement_node.py to evitement_node.cpython-312.pyc
+byte-compiling /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/omen/tp2_ws/install/mon_evitement/share/ament_index
+creating /home/omen/tp2_ws/install/mon_evitement/share/ament_index/resource_index
+creating /home/omen/tp2_ws/install/mon_evitement/share/ament_index/resource_index/packages
+copying resource/mon_evitement -> /home/omen/tp2_ws/install/mon_evitement/share/ament_index/resource_index/packages
+copying package.xml -> /home/omen/tp2_ws/install/mon_evitement/share/mon_evitement
+running install_egg_info
+Copying ../../build/mon_evitement/mon_evitement.egg-info to /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement-0.0.0-py3.12.egg-info
+running install_scripts
+Installing evitement_node script to /home/omen/tp2_ws/install/mon_evitement/lib/mon_evitement
+writing list of installed files to '/home/omen/tp2_ws/build/mon_evitement/install.log'

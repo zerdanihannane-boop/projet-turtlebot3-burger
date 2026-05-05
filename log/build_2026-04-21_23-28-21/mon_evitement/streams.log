@@ -1,0 +1,22 @@
+[0.745s] Invoking command in '/home/omen/tp2_ws/src/mon_evitement': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/omen/tp2_ws/build/mon_evitement/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mon_evitement build --build-base /home/omen/tp2_ws/build/mon_evitement/build install --record /home/omen/tp2_ws/build/mon_evitement/install.log --single-version-externally-managed install_data
+[0.945s] running egg_info
+[0.957s] writing ../../build/mon_evitement/mon_evitement.egg-info/PKG-INFO
+[0.957s] writing dependency_links to ../../build/mon_evitement/mon_evitement.egg-info/dependency_links.txt
+[0.957s] writing entry points to ../../build/mon_evitement/mon_evitement.egg-info/entry_points.txt
+[0.957s] writing requirements to ../../build/mon_evitement/mon_evitement.egg-info/requires.txt
+[0.958s] writing top-level names to ../../build/mon_evitement/mon_evitement.egg-info/top_level.txt
+[0.979s] reading manifest file '../../build/mon_evitement/mon_evitement.egg-info/SOURCES.txt'
+[0.979s] writing manifest file '../../build/mon_evitement/mon_evitement.egg-info/SOURCES.txt'
+[0.979s] running build
+[0.979s] running build_py
+[0.979s] running install
+[0.983s] running install_lib
+[0.995s] running install_data
+[0.995s] running install_egg_info
+[1.008s] removing '/home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement-0.0.0-py3.12.egg-info' (and everything under it)
+[1.008s] Copying ../../build/mon_evitement/mon_evitement.egg-info to /home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages/mon_evitement-0.0.0-py3.12.egg-info
+[1.008s] running install_scripts
+[1.091s] Installing evitement_node script to /home/omen/tp2_ws/install/mon_evitement/lib/mon_evitement
+[1.091s] Installing random_exploration script to /home/omen/tp2_ws/install/mon_evitement/lib/mon_evitement
+[1.091s] writing list of installed files to '/home/omen/tp2_ws/build/mon_evitement/install.log'
+[1.112s] Invoked command in '/home/omen/tp2_ws/src/mon_evitement' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/omen/tp2_ws/build/mon_evitement/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/omen/tp2_ws/install/mon_evitement/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/mon_evitement build --build-base /home/omen/tp2_ws/build/mon_evitement/build install --record /home/omen/tp2_ws/build/mon_evitement/install.log --single-version-externally-managed install_data
